@@ -1,14 +1,15 @@
 ---
-title: Bulma Clean Theme
-subtitle: This is the demo site for Bulma Clean Theme
+title: Frontle
+subtitle: The easiest multi-platform SPA framework
 layout: page
 callouts: home_callouts
+backgroundImage: "/img/background1.jpg"
 show_sidebar: true
 ---
 
 # Bulma Clean Theme demo website
 
-This website showcases the options for the Bulma Clean theme. The theme is available as a ruby gem or can be used with GitHub pages. 
+This website showcases the options for the Bulma Clean theme. The theme is available as a ruby gem or can be used with GitHub pages.
 
 [![Gem Version](https://badge.fury.io/rb/bulma-clean-theme.svg)](https://badge.fury.io/rb/bulma-clean-theme)
 ![Gem](https://img.shields.io/gem/dt/bulma-clean-theme.svg)
@@ -32,20 +33,20 @@ For full instructions, please see the [Documentation](/bulma-clean-theme/docs/)
 
 ## Page Layouts
 
-This demo site showcases the available page layout options. 
+This demo site showcases the available page layout options.
 
-* Sidebar
-* Menubar
-* Tabs
-* Footer
-* Hero
-* Contents
-* Landing Page With Callouts
-* Sponsors Page
-* Image Gallery
-* Recipe Page
-* Blog
-* Post
+-   Sidebar
+-   Menubar
+-   Tabs
+-   Footer
+-   Hero
+-   Contents
+-   Landing Page With Callouts
+-   Sponsors Page
+-   Image Gallery
+-   Recipe Page
+-   Blog
+-   Post
 
 ## Supported By JetBrains
 

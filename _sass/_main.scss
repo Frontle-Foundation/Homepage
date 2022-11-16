@@ -1,8 +1,8 @@
 @charset "utf-8";
-@import url('https://fonts.googleapis.com/css?family=Montserrat');
+@import url("https://fonts.googleapis.com/css?family=Montserrat");
 
-$family-sans-serif: 'Montserrat', sans-serif;
-$primary: #188eac !default;
+$family-sans-serif: "Montserrat", sans-serif;
+$primary: #ffffff !default;
 
 $tabs-link-active-color: $primary;
 $tabs-link-active-border-bottom-color: $primary;
@@ -18,5 +18,5 @@ $hero-darken: $dark !default;
 @import "../node_modules/bulma-block-list/src/block-list.scss";
 
 .gh-sponsor {
-  color: #ea4aaa;
+    color: #ea4aaa;
 }
