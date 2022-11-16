@@ -3,7 +3,7 @@ title: Frontle
 subtitle: The easiest multi-platform SPA framework
 layout: page
 callouts: home_callouts
-backgroundImage: "/img/background1.jpg"
+backgroundImage: "./img/background1.jpg"
 show_sidebar: true
 ---
 

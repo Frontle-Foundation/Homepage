@@ -2,7 +2,7 @@
 layout: page
 title: Docs
 menubar: docs_menu
-backgroundImage: "/img/background2.jpg"
+backgroundImage: "../../img/background2.jpg"
 show_sidebar: false
 ---
 
