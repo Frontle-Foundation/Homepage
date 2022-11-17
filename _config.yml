@@ -4,8 +4,8 @@ tagline: Frontle
 email: y37653@artifriends.com
 description: >
   The easiest multi-platform SPA framework
-baseurl: "/Homepage/"
-url: "https://frontle.org"
+baseurl: "/Homepage"
+url: "https://www.frontle.org"
 permalink: pretty
 hide_share_buttons: true
 paginate: 5
