@@ -1,5 +1,6 @@
 {
   "name": "bulma-clean-theme",
+  "homepage" : "https://frontle-foundation.github.io/Homepage",
   "description": "This is a clean and simple Jekyll Theme built with the Bulma framework, providing a modern looking site to start with.",
   "version": "1.0.0",
   "main": "index.js",
