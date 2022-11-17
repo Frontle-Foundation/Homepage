@@ -5,7 +5,7 @@ email: y37653@artifriends.com
 description: >
   The easiest multi-platform SPA framework
 baseurl: ""
-url: "https://www.frontle.org"
+url: "https://frontle.org"
 permalink: pretty
 hide_share_buttons: true
 paginate: 5
