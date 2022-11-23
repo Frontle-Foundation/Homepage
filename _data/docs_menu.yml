@@ -1,4 +1,15 @@
-- label: Getting Started
+- label: Installation
   items:
-    - name: Installation
-      link: /docs/getting-started/installation/
+    - name: Getting Started
+      link: /docs/installation/getting-started
+- label: Reference
+  items:
+    - name: CLI
+      link: /docs/reference/cli
+    - name: Core
+      link: /docs/reference/core
+- label: Library
+  items:
+    - name: Modal
+      link: /docs/library/modal
+

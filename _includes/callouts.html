@@ -1,8 +1,9 @@
 {% if page.callouts %} {% assign callouts=site.data.[page.callouts] %}
 <section
     class="hero {% if callouts.height %} {{ callouts.height }} {% else %} is-medium {% endif %} {{ callouts.style }}"
+    style="background: white"
 >
-    <div class="hero-body" style="background-color: white">
+    <div class="section" style="background-color: white; margin-top: 3rem;">
         <div class="container">
             <div class="columns is-multiline is-centered">
                 {% for callout in callouts.items %}
@@ -17,7 +18,7 @@
                     </div>
                     {% endif %}
                     <p class="title is-5">{{ callout.title }}</p>
-                    <p class="subtitle is-6">{{ callout.subtitle }}</p>
+                    <p class="is-6">{{ callout.subtitle }}</p>
 
                     {% if callout.description %}
                     <div class="content">

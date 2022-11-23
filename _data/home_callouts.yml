@@ -7,10 +7,7 @@ Frontle Application runs as written code without building tools such as Babel an
 <br>
 In addition, even the core part of the framework has the same characteristics as above, so you can deeply understand how the application is executed, and you can create your own framework by modifying it.
     "
-    icon: fa-copy
   - title: 순수 Javascript 문법
     subtitle: React, Vue와 같이 새로운 문법을 배우지 않아도 되며, 지원 중단 및 버전 업데이트에 의한 유지보수를 고려하지 않아도 됩니다.
-    icon: fa-mail-bulk
   - title: 멀티 플랫폼 개발
     subtitle: 하나의 코드로 Browser, Android, IOS, Electron Application을 빌드할 수 있습니다. 또 NPM, Cache bursting, NODE_ENV, Modal, Toast, BottomSheet, KeyValueStorage 등의 강력한 도구들을 지원합니다
-    icon: fa-copy
