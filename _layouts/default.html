@@ -20,7 +20,7 @@ assign content_width = 'is-8' %} {% else %} {% assign content_width = 'is-12' %}
     <body>
         {% include header.html %} {% unless page.hide_hero %} {% include
         hero.html %} {% endunless %} {% include callouts.html %}
-        <section class="section">
+        <section class="section" style="word-break: break-all">
             <div class="container">
                 <div class="columns is-multiline">
                     {% if page.menubar_toc %}
