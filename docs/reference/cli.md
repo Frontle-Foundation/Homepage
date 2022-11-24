@@ -4,13 +4,13 @@ menubar: docs_menu
 title: CLI
 subtitle: Reference
 show_sidebar: false
-backgroundImage: "../../../img/background2.jpg"
 toc: true
+hide_hero: true
 ---
 
 ### frontle create
 
-Frontle 프로젝트를 생성합니다
+Create a Frontle project
 
 ```shell
 frontle create myApp
@@ -18,19 +18,19 @@ frontle create myApp
 
 ### frontle install
 
-npm 패키지를 브라우저에서 사용할 수 있는 형태로 설치합니다. **browser_modules** 폴더 안에 패키지가 설치됩니다
+Install the NPM packages in a form that can be used in the browser. The package will be installed inside the **browser_modules** folder
 
 ```shell
 frontle install jquery
 frontle install jquery@1.0.0
 frontle install jquery@^1.0.0
-frontle install jquery --noBuild # NPM 패키지를 빌드하지 않고 원래 형태 그대로 설치합니다
-frontle insatll # package.json에 기록된 패키지를 모두 설치합니다
+frontle install jquery --noBuild # Install as-is without building NPM package
+frontle insatll # Install all the packages listed in package.json
 ```
 
 ### frontle uninstall
 
-설치했던 패키지를 삭제합니다
+Uninstall the NPM package installed with "frontle install" command
 
 ```shell
 frontle uninstall jquery
@@ -38,16 +38,15 @@ frontle uninstall jquery
 
 ### frontle build
 
-Cache bursting, NODE_ENV와 유사한 기능을 지원합니다
+- Cache bursting support
+- Supports features similar to NODE_ENV
 
 ```shell
 # Cache bursting
-# version 폴더 이름 및 index.html의 base href를 "v1"으로 변경합니다
-# 배포할 프로젝트에만 사용해야합니다. 개발중인 프로젝트에 사용해서는 안됩니다
+# Change the name of the version folder and the href value of the <base> tag in index.html to "v1"
 frontle build -v v1
 
-# NODE_ENV와 유사
-# frontle.env.FRONTLE_ENV값을 "production"으로 변경합니다
-# 배포할 프로젝트에만 사용해야합니다. 개발중인 프로젝트에 사용해서는 안됩니다
+# Similar to NODE_ENV
+# Change the value of frontle.env.FRONTLE_ENV to "production"
 frontle build -f production
 ```

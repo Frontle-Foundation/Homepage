@@ -3,7 +3,7 @@ title: Frontle
 subtitle: The easiest multi-platform SPA framework
 layout: page
 callouts: home_callouts
-backgroundImage: "./img/background1.gif"
+backgroundImage: "./img/background1.png"
 show_sidebar: false
 ---
 
@@ -13,7 +13,7 @@ show_sidebar: false
 
 ![demoScreen](./img/demoScreen.png)
 
-## 빠른 시작
+## Get Started Fast
 
 ```shell
 npm install -g cordova

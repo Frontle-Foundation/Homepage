@@ -1,15 +1,30 @@
 - label: Installation
   items:
     - name: Getting Started
-      link: /docs/installation/getting-started
+      link: /docs/installation/getting-started/
+
 - label: Reference
   items:
     - name: CLI
-      link: /docs/reference/cli
+      link: /docs/reference/cli/
     - name: Core
-      link: /docs/reference/core
+      link: /docs/reference/core/
+
 - label: Library
   items:
     - name: Modal
-      link: /docs/library/modal
+      link: /docs/library/modal/
+    - name: Toast
+      link: /docs/library/toast/
+    - name: BottomSheet
+      link: /docs/library/bottom-sheet/
+    - name: z-index-manager
+      link: /docs/library/z-index-manager/
+    - name: cordova-getplatformid
+      link: /docs/library/cordova-getplatformid/
+    - name: cordova-fileutil
+      link: /docs/library/cordova-fileutil/
+    - name: cordova-keyvaluestorage
+      link: /docs/library/cordova-keyvaluestorage/
+      
 
