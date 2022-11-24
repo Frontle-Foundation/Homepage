@@ -25,7 +25,7 @@ frontle install jquery
 frontle install jquery@1.0.0
 frontle install jquery@^1.0.0
 frontle install jquery --noBuild # Install as-is without building NPM package
-frontle insatll # Install all the packages listed in package.json
+frontle install # Install all the packages listed in package.json
 ```
 
 ### frontle uninstall
