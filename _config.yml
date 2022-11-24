@@ -8,8 +8,6 @@ baseurl: ""
 url: "https://frontle.org"
 permalink: pretty
 hide_share_buttons: true
-paginate: 5
-paginate_path: "/blog/page:num"
 disqus:
   shortname: frontle
 
