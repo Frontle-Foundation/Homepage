@@ -2,7 +2,6 @@
 layout: page
 menubar: docs_menu
 title: Getting Started
-subtitle: Installation
 show_sidebar: false
 toc: true
 hide_hero: true

@@ -2,9 +2,7 @@
 layout: page
 menubar: docs_menu
 title: Modal
-subtitle: Reference
 show_sidebar: false
-backgroundImage: "../../../img/background2.jpg"
 toc: true
 hide_hero: true
 ---
