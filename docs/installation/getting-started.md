@@ -98,5 +98,4 @@ Please set **www/version folder** as **Resource Root** for file path to work
 
 > **How to use Live Reload in Webstorm**
 >
-> https://www.npmjs.com/package/cordova-plugin-browsersync-gen2
-
+> [https://www.npmjs.com/package/cordova-plugin-browsersync-gen2](https://www.npmjs.com/package/cordova-plugin-browsersync-gen2)
