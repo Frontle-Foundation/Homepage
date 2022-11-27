@@ -17,7 +17,7 @@ show_sidebar: false
 
 ```shell
 npm install -g cordova
-npm install -g frontle
+npm install -g @frontle/frontle-cli
 frontle create myApp
 cd myApp
 frontle install
