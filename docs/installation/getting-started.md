@@ -95,3 +95,8 @@ In order to automatically add the file extension to the JS Import path, go into 
 Please set **www/version folder** as **Resource Root** for file path to work
 
 [![4](https://user-images.githubusercontent.com/49587288/201523251-1d36b788-86c9-4282-a0fb-7d191e3a47e0.PNG)](https://user-images.githubusercontent.com/49587288/201523251-1d36b788-86c9-4282-a0fb-7d191e3a47e0.PNG)
+
+> **How to use Live Reload in Webstorm**
+>
+> https://www.npmjs.com/package/cordova-plugin-browsersync-gen2
+
