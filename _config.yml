@@ -8,6 +8,7 @@ baseurl: ""
 url: "https://frontle.org"
 permalink: pretty
 hide_share_buttons: true
+github: https://github.com/Frontle-Foundation
 disqus:
   shortname: frontle
 

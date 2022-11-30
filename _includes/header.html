@@ -53,15 +53,15 @@
             </div>
 
             <div class="navbar-end">
-                {% if site.gh_sponsor %}
+                {% if site.github %}
                 <a
                     class="navbar-item"
-                    href="https://github.com/sponsors/{{ site.gh_sponsor }}"
+                    href="{{ site.github }}"
                 >
-                    <span class="icon gh-sponsor"
-                        ><i class="fas fa-heart"></i
+                    <span class="icon"
+                        ><i class="fab fa-github"></i
                     ></span>
-                    <span>Sponsor</span>
+                    <span>Github</span>
                 </a>
                 {% endif %}
             </div>
