@@ -9,8 +9,7 @@ hide_hero: true
 
 # @frontle/toast
 
-> Toast UI
->
+Toast UI
 
 ![화면-기록-2022-07-12-오후-4.50.51](https://user-images.githubusercontent.com/49587288/197339444-10307238-3297-42d7-abe2-3cf154bb7f44.gif)
 

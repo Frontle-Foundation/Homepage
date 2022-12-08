@@ -9,8 +9,7 @@ hide_hero: true
 
 # @frontle/bottomsheet
 
-> BottomSheet UI
->
+BottomSheet UI
 
 ![화면-기록-2022-07-12-오후-5.15.45](https://user-images.githubusercontent.com/49587288/197342550-9b052bac-24f0-4e15-ae98-aee8b046e378.gif)
 

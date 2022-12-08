@@ -9,7 +9,7 @@ hide_hero: true
 
 # @frontle/z-index-manager
 
-> Finds the highest z-index value
+Finds the highest z-index value
 
 ## Usage
 

@@ -9,8 +9,7 @@ hide_hero: true
 
 # @frontle/modal
 
-> Modal UI
->
+Modal UI
 
 ![화면-기록-2022-07-12-오후-3.40.17](https://user-images.githubusercontent.com/49587288/197337429-6fe44f6f-c06d-42ff-a7f4-d3e67b725c29.gif)
 

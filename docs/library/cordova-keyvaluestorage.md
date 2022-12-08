@@ -9,7 +9,7 @@ hide_hero: true
 
 # @frontle/cordova-keyvaluestorage
 
-> File-based key-value storage
+File-based key-value storage
 
 ## Usage
 

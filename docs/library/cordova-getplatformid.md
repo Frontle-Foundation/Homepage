@@ -9,7 +9,7 @@ hide_hero: true
 
 # @frontle/cordova-getplatformid
 
-> Get platform ID from cordova
+Get platform ID from cordova
 
 ## Usage
 

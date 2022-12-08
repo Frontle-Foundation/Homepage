@@ -9,7 +9,7 @@ hide_hero: true
 
 # @frontle/cordova-fileutil
 
-> 'cordova-plugin-file' easily
+"cordova-plugin-file" easily
 
 ## Usage
 
