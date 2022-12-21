@@ -37,16 +37,15 @@ frontle uninstall jquery
 
 ### frontle build
 
--   Cache bursting support
+-   Cache busting support
 -   Supports features similar to NODE_ENV
 
 ```shell
-# Cache bursting
-frontle build -v # Apply version with random value
-frontle build -v v1 # Apply the version as "v1"
-
 # Similar to NODE_ENV
 frontle build -f production # Change the value of frontle.env.FRONTLE_ENV to "production"
+
+# Cache busting
+frontle build -c
 
 # Reset
 frontle build -r # Revert to pre-build state
