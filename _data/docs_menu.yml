@@ -12,10 +12,6 @@
 
 - label: Library
   items:
-    - name: Modal
-      link: /docs/library/modal/
-    - name: Toast
-      link: /docs/library/toast/
     - name: BottomSheet
       link: /docs/library/bottom-sheet/
     - name: z-index-manager
@@ -26,5 +22,3 @@
       link: /docs/library/cordova-fileutil/
     - name: cordova-keyvaluestorage
       link: /docs/library/cordova-keyvaluestorage/
-      
-

@@ -10,4 +10,4 @@ In addition, even the core part of the framework has the same characteristics as
   - title: Pure Javascript Syntax
     subtitle: You don't have to learn new syntax like React or Vue, and you don't have to consider maintenance due to deprecation and version updates.
   - title: Multi-Platform, Powerful Tools
-    subtitle: You can build Browser, Android, IOS, and Electron Applications with one code. It also supports powerful tools such as NPM, Cache busting, NODE_ENV, Modal, Toast, BottomSheet, KeyValueStorage, etc.
+    subtitle: You can build Browser, Android, IOS, and Electron Applications with one code. It also supports powerful tools such as NPM, Cache busting, NODE_ENV, BottomSheet, KeyValueStorage, etc.
